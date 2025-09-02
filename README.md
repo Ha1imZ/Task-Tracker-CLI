@@ -1,7 +1,7 @@
 # Task-Tracker-CLI
 A CLI app to track your tasks and manage your to-do list.
 
-*********************************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************
 
 Requirements:
 The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
@@ -22,7 +22,7 @@ Use the native file system module of your programming language to interact with 
 Do not use any external libraries or frameworks to build this project.
 Ensure to handle errors and edge cases gracefully.
 
-*********************************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************
 
 Task Properties
 Each task should have the following properties:
@@ -34,7 +34,7 @@ createdAt: The date and time when the task was created
 updatedAt: The date and time when the task was last updated
 Make sure to add these properties to the JSON file when adding a new task and update them when updating a task.
 
-*********************************************************************************************************************************************************************************************************************
+***************************************************************************************************************************************************************
 
 Getting Started
 Here are a few steps to help you get started with the Task Tracker CLI project:
@@ -60,8 +60,7 @@ Ensure all features are implemented and tested.
 Clean up your code and add comments where necessary.
 Write a good readme file on how to use your Task Tracker CLI.
 
-*********************************************************************************************************************************************************************************************************************
-
+***************************************************************************************************************************************************************
 
 By the end of this project, you will have developed a practical tool that can help you or others manage tasks efficiently. This project lays a solid foundation for more advanced programming projects and 
 real-world applications.
